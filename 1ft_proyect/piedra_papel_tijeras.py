@@ -20,7 +20,7 @@ def play():
         
     if player_choice == bot_choice:
         print(f"Empate! Ambos eligieron {player_choice}")
-        if player_choice and bot_choice == "tijeras":
+        if player_choice == "tijeras" and bot_choice == "tijeras":
             print("ERES UNA LESBIANA xd")
         
     elif player_choice == "papel":
