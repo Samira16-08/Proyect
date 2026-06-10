@@ -1,4 +1,18 @@
-<h1 align="center">Aqui un poco de lo que sé o quiero aprender</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h1 align="center">Holaaa :D</h1>
+
+###
+
+<p align="left">Aqui hay un poco sobre mi, mis redes, cosas que estoy aprendiendo o quiero aprender</p>
+
+###
+
+<p align="left">No es mucho pero estoy feliz de mi progreso</p>
 
 ###
 
@@ -30,5 +44,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Samira">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Samira&count=6" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
